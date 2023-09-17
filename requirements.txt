@@ -1,0 +1,2 @@
+googletrans==4.0.0rc1
+pysrt==1.1.2
